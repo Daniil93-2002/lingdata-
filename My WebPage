@@ -33,8 +33,7 @@
 						<p><i>Чем старше человек, тем больше ему лет <b></i> </b></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://newslab.ru/Static/afisha/2015-11-0/Unesjonnye_prizrakami-133793.jpg
-" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+        	            <img src="MG_0981.jpeg" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
 					</div>
 	            </div>
 			</div>
@@ -52,32 +51,18 @@
 					</article>
 					<article>
 						<h3>Школа</h2>
-						<p>Улица</p>
+						<p>Гимназия №2</p>
 					</article>
 				</div>
 				<div class="col-md-6">
 					<article>
-						<h3>Тут можно написать</h2>
-						<p>Еще  <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						всего о себе</p>
+						<h3>Увлекаюсь кино</h2>
 					</article>
 				</div>
 				<div class="col-md-3">
-					<h3>Я не в соцсетях</h3>
+					<h3>Я в соцсетях</h3>
 					<ul>
 						<li>VK</li>
-						<li>Facebook</li>
-						<li>Twitter</li>
 						<li>Instagram</li>
 					</ul>
 				</div>
@@ -85,7 +70,7 @@
 		</section>
 		<footer class="bs-docs-footer"> 
 			<div class="container"> 
-				<p style="text-align:right; ">&copy; Д. Жильцов, 2018 до н. э.</p> 
+				<p style="text-align:right; ">&copy; Д. Жильцов, 2020.</p> 
 			</div>
 		</footer>
 	</body>
